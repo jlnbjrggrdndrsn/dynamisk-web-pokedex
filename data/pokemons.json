@@ -1,0 +1,17 @@
+{
+    "bicycles": [{
+            "id": 1,
+            "manufacturer": "Kildemoes",
+            "model": "Classic",
+            "type": "Klassisk herre",
+            "features": ["3 gear", "komfortabel saddel", "klassiske pedaler"]
+        },
+        {
+            "id": 2,
+            "manufacturer": "Scott",
+            "model": "VRJ2100",
+            "type": "Racer herre",
+            "features": ["18 gear", "racer saddel", "racer pedaler"]
+        }
+    ]
+}
